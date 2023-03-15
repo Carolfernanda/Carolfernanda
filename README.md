@@ -34,8 +34,10 @@ Here are some ideas to get you started:
 ##
 
 
-🙋‍♀️ Recifense, mãe de pet, apaixonada por tecnlogia e música.  
+🙋‍♀️ Recifense, mãe de pet, apaixonada por tecnlogia e música  
+
 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas 
+
 🏵️ Vontade de desbravar o novo cresce a cada dia, sigo encantada com os universos do Backend e Frontend.
 
 
