@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ##
 
 
-🙋‍♀️ Recifense, mãe de pet, apaixonada por tecnlogia e música  
+🙋‍♀️ Recifense, mãe de pet, apaixonada por tecnologia, literatura, filme e música  
 
 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas 
 
