@@ -53,7 +53,7 @@
 </br>
 
 
-## 🌎 Rede Sociais!
+## 🌎 Redes Sociais!
 
  <div align="center">
  <a href="https://www.linkedin.com/in/carolinafssilva/" target="blank"><img height ="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="blank">
