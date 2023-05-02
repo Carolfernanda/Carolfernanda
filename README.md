@@ -58,15 +58,18 @@
 
 ## 🌎 Redes Sociais!
 
- <div align="center">
- <a href="https://www.linkedin.com/in/carolinafssilva/" target="blank"><img height ="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="blank">
  
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinafssilva/)
+ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=carolfern84@gmail.com)
+ ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=)
+   
  </div>
 
 </br>
 </br>
 
 ## 
-
+*********************************************************
+![Carolfernanda's Stats](https://github-readme-stats.vercel.app/api?username=Carolfernanda&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Carolfernanda/count.svg"/></p>
