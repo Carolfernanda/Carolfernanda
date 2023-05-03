@@ -33,10 +33,6 @@
 🏵️ Vontade de desbravar o novo cresce a cada dia, sigo encantada com os universos do Backend e Frontend.
 
 *******************************************
-*Contador De Visitas*
-
-![VisitorCount](https://profile-counter.glitch.me/{Carolfernanda}/count.svg)
-
 </br>
 </br>
 
