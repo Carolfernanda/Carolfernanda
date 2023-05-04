@@ -12,11 +12,6 @@
 
 </br>
 
-<div align="center">
-  <a href="https://github.com/Carolfernanda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolfernanda&layout=compact&langs_count=7&theme=dark"/>
-</div> 
-
 
 <!-- ## Seja bem-vindo(a) ao meu <strong> Github !!! </strong> -->
 
@@ -67,6 +62,5 @@
 
 ## 
 *********************************************************
-![Carolfernanda's Stats](https://github-readme-stats.vercel.app/api?username=Carolfernanda&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Carolfernanda/count.svg"/></p>
