@@ -21,11 +21,11 @@
 
 
 
-🙋‍♀️ Recifense, mãe de pet, apaixonada por tecnologia, literatura, filme e música  
+> 🙋‍♀️ Recifense, mãe de pet, apaixonada por tecnologia, literatura, filme e música  
 
-👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas 
+> 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas 
 
-🏵️ Vontade de desbravar o novo cresce a cada dia, sigo encantada com os universos do Backend e Frontend.
+> 🏵️ Vontade de desbravar o novo cresce a cada dia, sigo encantada com os universos do Backend e Frontend.
 
 *******************************************
 </br>
