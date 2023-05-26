@@ -64,3 +64,8 @@
 *********************************************************
 
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Carolfernanda/count.svg"/></p>
+
+
+<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/JonaThFelix/count.svg"/></p>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
