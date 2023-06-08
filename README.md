@@ -33,7 +33,7 @@
 </br>
 
 
-## 👩‍💻 Learning
+## 👩‍💻 Some of my skills
 
 
 <div align="center">
