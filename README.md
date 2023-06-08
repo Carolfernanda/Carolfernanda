@@ -20,7 +20,7 @@
 
 
  # A little about me
- **********
+
 
 > 🙋‍♀️ Born in Recife, mother of a pet, passionate about technology, literature, film and music
 
