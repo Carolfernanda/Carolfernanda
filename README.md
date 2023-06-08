@@ -21,12 +21,9 @@
 
  # A little about me
 
+> ❤️ I love coffee, music and travel
 
-> 🙋‍♀️ Born in Recife, mother of a pet, passionate about technology, literature, film and music
-
-> 👩🏻‍💻 Systems Analysis and Development Student
-
-> 🏵️ Recently, I started my journey in the Back-End improvement course at Senac in partnership with Porto Digital M.I.N.As and Oracle Next Education - Programa ONE
+> 💬 I am currently studying Backend Development, I started my journey in the Back-End course at Senac in partnership with Porto Digital M.I.N.As and Oracle Next Education - Programa ONE
 
 *******************************************
 </br>
@@ -63,7 +60,10 @@
 
 ## 
 *********************************************************
+![Carolfernanda's Stats](https://github-readme-stats.vercel.app/api?username=Carolfernanda&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
+![Carolfernanda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolfernanda&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+******************************************
 
 
 
