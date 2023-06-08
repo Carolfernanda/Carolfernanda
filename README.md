@@ -8,31 +8,32 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Carolina+Fernanda;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Carolina+Fernanda!👋;)](https://git.io/typing-svg)
 
 </br>
 
 
-<!-- ## Seja bem-vindo(a) ao meu <strong> Github !!! </strong> -->
+<!-- ## welcome to my <strong> Github !!! </strong> -->
 
 </br>
 </br>
 
 
+ # A little about me
+ **********
 
+> 🙋‍♀️ Born in Recife, mother of a pet, passionate about technology, literature, film and music
 
-> 🙋‍♀️ Recifense, mãe de pet, apaixonada por tecnologia, literatura, filme e música  
+> 👩🏻‍💻 Systems Analysis and Development Student
 
-> 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas 
-
-> 🏵️ Vontade de desbravar o novo cresce a cada dia, sigo encantada com os universos do Backend e Frontend.
+> 🏵️ Recently, I started my journey in the Back-End improvement course at Senac in partnership with Porto Digital M.I.N.As and Oracle Next Education - Programa ONE
 
 *******************************************
 </br>
 </br>
 
 
-## 💻 Principais Linguagens
+## 👩‍💻 Learning
 
 
 <div align="center">
@@ -47,7 +48,7 @@
 </br>
 
 
-## 🌎 Redes Sociais
+## 🌎 Social Media
 
  
 <a href="https://www.linkedin.com/in/carolinafssilva/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
@@ -63,7 +64,7 @@
 ## 
 *********************************************************
 
-<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Carolfernanda/count.svg"/></p>
+
 
 
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Carolfernanda/count.svg"/></p>
