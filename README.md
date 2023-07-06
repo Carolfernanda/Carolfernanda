@@ -8,7 +8,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carolina!👋;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Hi,+there!+I'm+Carolina!👋;)](https://git.io/typing-svg)
 
 </br>
 
@@ -19,11 +19,11 @@
 </br>
 
 
- # A little about me
+ ### About Me:
 
-> ❤️ I love coffee, music and travel
 
-> 💬 I am currently studying Backend Development, I started my journey in the Back-End course at Senac in partnership with Porto Digital M.I.N.As and Oracle Next Education - Programa ONE
+- :woman_technologist: Student of Systems Analysis and Development, passionate about technology and innovation. I love coffee, music, literature, and traveling!
+- :seedling: I’m currently learning cloud computing and some programming languages.
 
 *******************************************
 </br>
