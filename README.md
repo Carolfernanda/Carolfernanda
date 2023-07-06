@@ -50,12 +50,16 @@
  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=carolfern84@gmail.com)
  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=)
 
------------     
- </div>
+-----------   
 
-![Carolfernanda's Stats](https://github-readme-stats.vercel.app/api?username=Carolfernanda&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+ <div align="center" valign="top"><br>
+  <a href="https://github.com/Carolfernanda">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carolfernanda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolfernanda&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+<br/>
 
-![Carolfernanda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolfernanda&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+
 ******************************************
 
 
